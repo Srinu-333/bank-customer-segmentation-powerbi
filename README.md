@@ -83,3 +83,11 @@ Automate data refresh with live data sources
 
 🏁 Conclusion
 This project demonstrates how Power BI can be used to convert raw banking data into meaningful insights, helping businesses understand customers better and make informed strategic decisions.
+
+
+## 📁 Power BI Report
+The interactive Power BI dashboard is available as a `.pbix` file.
+Download and open it using Power BI Desktop.
+
+📌 File: Bank_Customer_Segmentation_PowerBI.pbix ( https://drive.google.com/file/d/1Npxson8zA0ddtdDuB9fioTsoqtqigeyW/view?usp=drive_link )
+
